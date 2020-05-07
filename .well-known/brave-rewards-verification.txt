@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jordankrishnayah.me
+Token: b8d11854d7cd42983cbb70f227dae49acba57cbb2c9d03ab69cdbde68076cf92
